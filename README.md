@@ -1,5 +1,5 @@
 # csv_convertor
-It can convert simple Tab seperated values (TSV) file into comma seperated values (CSV) file
+It is a python software that can convert simple Tab seperated values (TSV) file into comma seperated values (CSV) file
 Example format of the file to be converted:
 
 Col_1	Col_2	Col_3
